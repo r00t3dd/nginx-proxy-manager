@@ -26,7 +26,3 @@ services:
     networks:
       - npm-nw
 
-
-networks:
-external:
-  name: npm-nw
